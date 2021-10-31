@@ -8,8 +8,8 @@ Repository ini dibuat khusus untuk history dari pembelajaran Mata Kuliah Praktik
  - Tugas Mandiri
 ---
 
-👨‍🎓
-Fikri Khairul Shaleh
-TINFC-2021-02
-Teknik Informatika - Fakultas Ilmu Komputer
+👨‍🎓\
+Fikri Khairul Shaleh\
+TINFC-2021-02\
+Teknik Informatika - Fakultas Ilmu Komputer\
 Universitas Kuningan
