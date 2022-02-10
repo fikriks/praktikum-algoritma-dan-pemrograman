@@ -1,0 +1,15 @@
+1
+Ilmu Pengetahuan Sosial
+77000
+2
+Ilmu Pengetahuan Alam
+77000
+3
+Pintar Matematika
+77000
+4
+Kamus Bahasa Inggris
+750000
+5
+Pintar Komputer
+80000
